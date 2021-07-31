@@ -1,11 +1,11 @@
 ### Hi there👋, I'm Joyel - Know more about me 👉🏻 [website] 
 
-[![Website](https://joyelthedev.io/)
-## I'm a Web-Developer, Wordpress Expert & UI/UX Designer!!
+[![Website](https://img.shields.io/website?label=JOYELTHEDEV.IO&logo=joyel&style=for-the-badge&up_message=UP&url=http%3A%2F%2Fjoyelthedev.io%2F)](https://joyelthedev.io)
+## Web-Developer, Wordpress Expert & UI/UX Designer!!
 
 - 🔭 I am an MCA Student from Kerala, India!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other digital creators
 
 
 ### Connect with me:
